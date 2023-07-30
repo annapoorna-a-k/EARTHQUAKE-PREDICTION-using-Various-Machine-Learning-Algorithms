@@ -16,5 +16,6 @@ Earthquake Prediction is a way of predicting the magnitude of an earthquake base
   <li>Visualization with Matplotlib and Seaborn</li>
   <li>Prediction</li>
 </ol>
+
 ### Download Datasets from:
 https://drive.google.com/drive/folders/1b4IyWfUzbDgOvuW_W7rOSEeTpBN53Mlf
